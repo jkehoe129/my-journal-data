@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "1",
+    "date": "2026-09-29",
+    "title": "My First Entry",
+    "content": "Journal connected to GitHub!",
+    "mood": "😊",
+    "tags": ["journal", "setup"]
+  }
+]
