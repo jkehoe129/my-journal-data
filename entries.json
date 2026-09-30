@@ -5,6 +5,10 @@
     "title": "Test Result",
     "content": "CT scan came back clean",
     "mood": "😃",
-    "tags": []
+    "tags": [
+      "CT",
+      "Test",
+      ""
+    ]
   }
 ]
